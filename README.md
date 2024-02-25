@@ -1,5 +1,5 @@
 ## Custom Monokai Theme for Vim
-<img src="https://github.com/eesuhn/vim-monokai/assets/102596628/ecce9d8d-161e-4855-835c-5b2fa13e471a" alt="screenshot" width="260" />
+<img src="https://github.com/eesuhn/vim-monokai/assets/102596628/ecce9d8d-161e-4855-835c-5b2fa13e471a" alt="screenshot" width="300" />
 
 #### Installation
 1. `git clone` in root directory
