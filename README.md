@@ -3,7 +3,7 @@
 
 #### Installation
 1. Copy to root `git clone https://github.com/eesuhn/vim-monokai.git`
-2. Run `mkdir -p ~/.vim/ && cp -r ~/vim-monokai/colors/ ~/.vim/`
+2. Run `mkdir -p ~/.vim/ && cp -r ~/vim-monokai/colors ~/.vim/`
 3. Add following lines to `~/.vimrc`
 ```
 syntax on
